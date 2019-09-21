@@ -1,0 +1,395 @@
+START PROCESSING FILE: Test S1T4 Crozzle.txt
+END PROCESSING FILE: Test S1T4 Crozzle.txt
+
+START PROCESSING FILE: Test S1T4 Configuration.txt
+END PROCESSING FILE: Test S1T4 Configuration.txt
+
+START PROCESSING FILE: Test S1T4 Wordlist.txt
+END PROCESSING FILE: Test S1T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T4 Crozzle.txt
+END PROCESSING FILE: Test S1T4 Crozzle.txt
+
+START PROCESSING FILE: Test S1T4 Configuration.txt
+END PROCESSING FILE: Test S1T4 Configuration.txt
+
+START PROCESSING FILE: Test S1T4 Wordlist.txt
+END PROCESSING FILE: Test S1T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T1 Crozzle.txt
+END PROCESSING FILE: Test S1T1 Crozzle.txt
+
+START PROCESSING FILE: Test S1T1 Configuration.txt
+END PROCESSING FILE: Test S1T1 Configuration.txt
+
+START PROCESSING FILE: Test S1T1 Wordlist.txt
+END PROCESSING FILE: Test S1T1 Wordlist.txt
+
+START PROCESSING FILE: Test S1T2 Crozzle.txt
+END PROCESSING FILE: Test S1T2 Crozzle.txt
+
+START PROCESSING FILE: Test S1T2 Configuration.txt
+END PROCESSING FILE: Test S1T2 Configuration.txt
+
+START PROCESSING FILE: Test S1T2 Wordlist.txt
+END PROCESSING FILE: Test S1T2 Wordlist.txt
+
+START PROCESSING FILE: Test S1T3 Crozzle.txt
+END PROCESSING FILE: Test S1T3 Crozzle.txt
+
+START PROCESSING FILE: Test S1T3 Configuration.txt
+END PROCESSING FILE: Test S1T3 Configuration.txt
+
+START PROCESSING FILE: Test S1T3 Wordlist.txt
+END PROCESSING FILE: Test S1T3 Wordlist.txt
+
+START PROCESSING FILE: Test S1T4 Crozzle.txt
+END PROCESSING FILE: Test S1T4 Crozzle.txt
+
+START PROCESSING FILE: Test S1T4 Configuration.txt
+END PROCESSING FILE: Test S1T4 Configuration.txt
+
+START PROCESSING FILE: Test S1T4 Wordlist.txt
+END PROCESSING FILE: Test S1T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T4 Crozzle.txt
+END PROCESSING FILE: Test S1T4 Crozzle.txt
+
+START PROCESSING FILE: Test S1T4 Configuration.txt
+END PROCESSING FILE: Test S1T4 Configuration.txt
+
+START PROCESSING FILE: Test S1T4 Wordlist.txt
+END PROCESSING FILE: Test S1T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T4 Crozzle.txt
+END PROCESSING FILE: Test S1T4 Crozzle.txt
+
+START PROCESSING FILE: Test S1T4 Configuration.txt
+END PROCESSING FILE: Test S1T4 Configuration.txt
+
+START PROCESSING FILE: Test S1T4 Wordlist.txt
+END PROCESSING FILE: Test S1T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T4 Crozzle.txt
+END PROCESSING FILE: Test S1T4 Crozzle.txt
+
+START PROCESSING FILE: Test S1T4 Configuration.txt
+END PROCESSING FILE: Test S1T4 Configuration.txt
+
+START PROCESSING FILE: Test S1T4 Wordlist.txt
+END PROCESSING FILE: Test S1T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T1 Crozzle.txt
+END PROCESSING FILE: Test S1T1 Crozzle.txt
+
+START PROCESSING FILE: Test S1T1 Configuration.txt
+END PROCESSING FILE: Test S1T1 Configuration.txt
+
+START PROCESSING FILE: Test S1T1 Wordlist.txt
+END PROCESSING FILE: Test S1T1 Wordlist.txt
+
+START PROCESSING FILE: Test S2T1 Crozzle.txt
+END PROCESSING FILE: Test S2T1 Crozzle.txt
+
+START PROCESSING FILE: Test S2T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S2T1 Configuration.txt
+
+START PROCESSING FILE: Test S2T1 Wordlist.txt
+error 1: code 10003: the wordlist size (2) is less than the expected minimum (10)
+END PROCESSING FILE: Test S2T1 Wordlist.txt
+
+START PROCESSING FILE: Test S2T1 Crozzle.txt
+END PROCESSING FILE: Test S2T1 Crozzle.txt
+
+START PROCESSING FILE: Test S2T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S2T1 Configuration.txt
+
+START PROCESSING FILE: Test S2T1 Wordlist.txt
+END PROCESSING FILE: Test S2T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T1 Crozzle.txt
+END PROCESSING FILE: Test S3T1 Crozzle.txt
+
+START PROCESSING FILE: Test S3T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T1 Configuration.txt
+
+START PROCESSING FILE: Test S3T1 Wordlist.txt
+error 1: code 10003: the wordlist size (3) is less than the expected minimum (10)
+END PROCESSING FILE: Test S3T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T1 Crozzle.txt
+END PROCESSING FILE: Test S3T1 Crozzle.txt
+
+START PROCESSING FILE: Test S3T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T1 Configuration.txt
+
+START PROCESSING FILE: Test S3T1 Wordlist.txt
+END PROCESSING FILE: Test S3T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T1 Crozzle.txt
+END PROCESSING FILE: Test S3T1 Crozzle.txt
+
+START PROCESSING FILE: Test S3T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T1 Configuration.txt
+
+START PROCESSING FILE: Test S3T1 Wordlist.txt
+END PROCESSING FILE: Test S3T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T1 Crozzle.txt
+END PROCESSING FILE: Test S3T1 Crozzle.txt
+
+START PROCESSING FILE: Test S3T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T1 Configuration.txt
+
+START PROCESSING FILE: Test S3T1 Wordlist.txt
+END PROCESSING FILE: Test S3T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T1 Crozzle.txt
+END PROCESSING FILE: Test S3T1 Crozzle.txt
+
+START PROCESSING FILE: Test S3T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T1 Configuration.txt
+
+START PROCESSING FILE: Test S3T1 Wordlist.txt
+END PROCESSING FILE: Test S3T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T1 Crozzle.txt
+END PROCESSING FILE: Test S3T1 Crozzle.txt
+
+START PROCESSING FILE: Test S3T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T1 Configuration.txt
+
+START PROCESSING FILE: Test S3T1 Wordlist.txt
+END PROCESSING FILE: Test S3T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T1 Crozzle.txt
+END PROCESSING FILE: Test S3T1 Crozzle.txt
+
+START PROCESSING FILE: Test S3T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T1 Configuration.txt
+
+START PROCESSING FILE: Test S3T1 Wordlist.txt
+END PROCESSING FILE: Test S3T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T1 Crozzle.txt
+END PROCESSING FILE: Test S3T1 Crozzle.txt
+
+START PROCESSING FILE: Test S3T1 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T1 Configuration.txt
+
+START PROCESSING FILE: Test S3T1 Wordlist.txt
+END PROCESSING FILE: Test S3T1 Wordlist.txt
+
+START PROCESSING FILE: Test S3T4 Crozzle.txt
+END PROCESSING FILE: Test S3T4 Crozzle.txt
+
+START PROCESSING FILE: Test S3T4 Configuration.txt
+END PROCESSING FILE: Test S3T4 Configuration.txt
+
+START PROCESSING FILE: Test S3T4 Wordlist.txt
+END PROCESSING FILE: Test S3T4 Wordlist.txt
+
+START PROCESSING FILE: Test S3T4 Crozzle.txt
+END PROCESSING FILE: Test S3T4 Crozzle.txt
+
+START PROCESSING FILE: Test S3T4 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T4 Configuration.txt
+
+START PROCESSING FILE: Test S3T4 Wordlist.txt
+END PROCESSING FILE: Test S3T4 Wordlist.txt
+
+START PROCESSING FILE: Test S3T4 Crozzle.txt
+END PROCESSING FILE: Test S3T4 Crozzle.txt
+
+START PROCESSING FILE: Test S3T4 Configuration.txt
+error 1: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: Test S3T4 Configuration.txt
+
+START PROCESSING FILE: Test S3T4 Wordlist.txt
+END PROCESSING FILE: Test S3T4 Wordlist.txt
+
+START PROCESSING FILE: Test S3T4 Crozzle.txt
+END PROCESSING FILE: Test S3T4 Crozzle.txt
+
+START PROCESSING FILE: Test S3T4 Configuration.txt
+END PROCESSING FILE: Test S3T4 Configuration.txt
+
+START PROCESSING FILE: Test S3T4 Wordlist.txt
+END PROCESSING FILE: Test S3T4 Wordlist.txt
+
+START PROCESSING FILE: Test S3T4 Crozzle.txt
+END PROCESSING FILE: Test S3T4 Crozzle.txt
+
+START PROCESSING FILE: Test S3T4 Configuration.txt
+END PROCESSING FILE: Test S3T4 Configuration.txt
+
+START PROCESSING FILE: Test S3T4 Wordlist.txt
+END PROCESSING FILE: Test S3T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T1 Crozzle.txt
+END PROCESSING FILE: Test S1T1 Crozzle.txt
+
+START PROCESSING FILE: Test S1T1 Configuration.txt
+END PROCESSING FILE: Test S1T1 Configuration.txt
+
+START PROCESSING FILE: Test S1T1 Wordlist.txt
+END PROCESSING FILE: Test S1T1 Wordlist.txt
+
+START PROCESSING FILE: Test S1T2 Crozzle.txt
+END PROCESSING FILE: Test S1T2 Crozzle.txt
+
+START PROCESSING FILE: Test S1T2 Configuration.txt
+END PROCESSING FILE: Test S1T2 Configuration.txt
+
+START PROCESSING FILE: Test S1T2 Wordlist.txt
+END PROCESSING FILE: Test S1T2 Wordlist.txt
+
+START PROCESSING FILE: Test S1T3 Crozzle.txt
+END PROCESSING FILE: Test S1T3 Crozzle.txt
+
+START PROCESSING FILE: Test S1T3 Configuration.txt
+END PROCESSING FILE: Test S1T3 Configuration.txt
+
+START PROCESSING FILE: Test S1T3 Wordlist.txt
+END PROCESSING FILE: Test S1T3 Wordlist.txt
+
+START PROCESSING FILE: Test S1T4 Crozzle.txt
+END PROCESSING FILE: Test S1T4 Crozzle.txt
+
+START PROCESSING FILE: Test S1T4 Configuration.txt
+END PROCESSING FILE: Test S1T4 Configuration.txt
+
+START PROCESSING FILE: Test S1T4 Wordlist.txt
+END PROCESSING FILE: Test S1T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T1 Crozzle.txt
+END PROCESSING FILE: Test S1T1 Crozzle.txt
+
+START PROCESSING FILE: Test S1T1 Configuration.txt
+END PROCESSING FILE: Test S1T1 Configuration.txt
+
+START PROCESSING FILE: Test S1T1 Wordlist.txt
+END PROCESSING FILE: Test S1T1 Wordlist.txt
+
+START PROCESSING FILE: Test S1T2 Crozzle.txt
+END PROCESSING FILE: Test S1T2 Crozzle.txt
+
+START PROCESSING FILE: Test S1T2 Configuration.txt
+END PROCESSING FILE: Test S1T2 Configuration.txt
+
+START PROCESSING FILE: Test S1T2 Wordlist.txt
+END PROCESSING FILE: Test S1T2 Wordlist.txt
+
+START PROCESSING FILE: Test S1T1 Crozzle.txt
+END PROCESSING FILE: Test S1T1 Crozzle.txt
+
+START PROCESSING FILE: Test S1T1 Configuration.txt
+END PROCESSING FILE: Test S1T1 Configuration.txt
+
+START PROCESSING FILE: Test S1T1 Wordlist.txt
+END PROCESSING FILE: Test S1T1 Wordlist.txt
+
+START PROCESSING FILE: Test S1T4 Crozzle.txt
+END PROCESSING FILE: Test S1T4 Crozzle.txt
+
+START PROCESSING FILE: Test S1T4 Configuration.txt
+END PROCESSING FILE: Test S1T4 Configuration.txt
+
+START PROCESSING FILE: Test S1T4 Wordlist.txt
+END PROCESSING FILE: Test S1T4 Wordlist.txt
+
+START PROCESSING FILE: Test S1T3 Crozzle.txt
+END PROCESSING FILE: Test S1T3 Crozzle.txt
+
+START PROCESSING FILE: Test S1T3 Configuration.txt
+END PROCESSING FILE: Test S1T3 Configuration.txt
+
+START PROCESSING FILE: Test S1T3 Wordlist.txt
+END PROCESSING FILE: Test S1T3 Wordlist.txt
+
+START PROCESSING FILE: Test S1T2 Crozzle.txt
+END PROCESSING FILE: Test S1T2 Crozzle.txt
+
+START PROCESSING FILE: Test S1T2 Configuration.txt
+END PROCESSING FILE: Test S1T2 Configuration.txt
+
+START PROCESSING FILE: Test S1T2 Wordlist.txt
+END PROCESSING FILE: Test S1T2 Wordlist.txt
+
+START PROCESSING FILE: Test S1T1 Crozzle.txt
+END PROCESSING FILE: Test S1T1 Crozzle.txt
+
+START PROCESSING FILE: Test S1T1 Configuration.txt
+END PROCESSING FILE: Test S1T1 Configuration.txt
+
+START PROCESSING FILE: Test S1T1 Wordlist.txt
+END PROCESSING FILE: Test S1T1 Wordlist.txt
+
+START PROCESSING FILE: Test S1T1 Crozzle.txt
+END PROCESSING FILE: Test S1T1 Crozzle.txt
+
+START PROCESSING FILE: Test S1T1 Configuration.txt
+END PROCESSING FILE: Test S1T1 Configuration.txt
+
+START PROCESSING FILE: Test S1T1 Wordlist.txt
+END PROCESSING FILE: Test S1T1 Wordlist.txt
+
+START PROCESSING FILE: Crozzle.txt
+END PROCESSING FILE: Crozzle.txt
+
+START PROCESSING FILE: Configuration.txt
+END PROCESSING FILE: Configuration.txt
+
+START PROCESSING FILE: Wordlist.txt
+END PROCESSING FILE: Wordlist.txt
+
+START PROCESSING FILE: Crozzle.txt
+END PROCESSING FILE: Crozzle.txt
+
+START PROCESSING FILE: Configuration.txt
+END PROCESSING FILE: Configuration.txt
+
+START PROCESSING FILE: Wordlist.txt
+END PROCESSING FILE: Wordlist.txt
+
+START PROCESSING FILE: Crozzle.txt
+END PROCESSING FILE: Crozzle.txt
+
+START PROCESSING FILE: Configuration.txt
+END PROCESSING FILE: Configuration.txt
+
+START PROCESSING FILE: Wordlist.txt
+END PROCESSING FILE: Wordlist.txt
+
+START PROCESSING FILE: Crozzle.txt
+END PROCESSING FILE: Crozzle.txt
+
+START PROCESSING FILE: Configuration.txt
+END PROCESSING FILE: Configuration.txt
+
+START PROCESSING FILE: Wordlist.txt
+END PROCESSING FILE: Wordlist.txt
+

@@ -1,0 +1,11 @@
+// File dependencies.
+// Configuraton file.
+CONFIGURATION_FILE="Configuration.txt"
+
+// Word list file.
+WORDLIST_FILE="Wordlist.txt"
+
+// Crozzle Size.
+// The number of rows and columns.
+ROWS=4
+COLUMNS=5
