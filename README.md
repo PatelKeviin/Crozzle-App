@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple GUI crozzle application created using .NETFramework v4.6.1 and C#. The application uses an optimisation technique - Greedy Algorithm to quickly generate the "highest" scoring crozzle for a given list of words.
+This is a simple GUI crozzle application created using .NETFramework v4.6.1 and C#. The application uses an optimisation technique - Greedy Algorithm to quickly generate the "highest" scoring crozzle for a given word list.
 
 ## Instructions To Use
 
